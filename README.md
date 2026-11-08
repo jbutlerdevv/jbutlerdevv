@@ -12,12 +12,12 @@
 </p>
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jbutlerdevv/jbutlerdevv/cards/contributions-dark.svg">
-  <img src="https://raw.githubusercontent.com/jbutlerdevv/jbutlerdevv/cards/contributions-light.svg" width="400" alt="Notable contributions">
-</picture>
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jbutlerdevv/jbutlerdevv/cards/weekly-dark.svg">
   <img src="https://raw.githubusercontent.com/jbutlerdevv/jbutlerdevv/cards/weekly-light.svg" width="400" alt="Weekly rhythm">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jbutlerdevv/jbutlerdevv/cards/about-dark.svg">
+  <img src="https://raw.githubusercontent.com/jbutlerdevv/jbutlerdevv/cards/about-light.svg" width="400" alt="About">
 </picture>
 </p>
 <!-- cool-readme:end -->
