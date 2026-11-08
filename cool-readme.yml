@@ -4,6 +4,13 @@ count:
   private: true
   orgs: true
 look:
-  style: oled
-  color: github
+  style: classic
+  color: green
   background: none
+show: [summary, languages, weekly, about]
+cards:
+  about:
+    headline: "Hi, I'm *Manik*"
+    lines:
+      - "Hi, I'm *Manik*"
+      - "I like making cool stuff"
