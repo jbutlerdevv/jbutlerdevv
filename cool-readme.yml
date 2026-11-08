@@ -4,7 +4,7 @@ count:
   private: true
   orgs: true
 look:
-  style: classic
+  style: dotmatrix
   color: green
   background: none
 show: [summary, languages, weekly, about]
