@@ -7,7 +7,7 @@ look:
   style: dotmatrix
   color: green
   background: none
-show: [summary, languages, weekly, about]
+show: [summary, languages, weekly, about, streaks]
 cards:
   about:
     headline: "Hi, I'm *Manik*"
